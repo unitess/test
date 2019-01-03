@@ -9,6 +9,6 @@ spring.datasource.password: "{cipher}15efa60216be5ff29c058ef340ddfb60036015f2652
 spring.datasource.testWhileIdle: "true"
 spring.datasource.validationQuery: "SELECT 1"
 spring.jpa.properties.hibernate.dialect: "org.hibernate.dialect.MySQLDialect"
-redis.server: "redis"
+redis.server: "192.168.2.129"
 redis.port: "6379"
 signing.key: "IMSYMMETRIC"
